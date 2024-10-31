@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Product Percentage Coupon Woo\n"
+"POT-Creation-Date: 2020-09-10 13:54+0100\n"
+"PO-Revision-Date: 2020-08-06 12:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: product-percentage-coupon-woo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-woo-product-percentage-coupon.php:61
+msgid "Percentage discount (per product)"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:76
+msgid ""
+"A “Percentage discount (per product)” coupon works just like a regular "
+"“Percentage discount” coupon, setting the default discount at the percentage "
+"set on this page, but applies a custom discount if you set it on each "
+"product."
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:150
+msgid "Percentage discount coupons"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:162
+msgid ""
+"The fields below are used to set custom percentage discounts for “Percentage "
+"discount (per product)” coupons"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:172
+msgid "Activate coupon discount (%)"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:174
+#: includes/class-woo-product-percentage-coupon.php:203
+msgid "Yes"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:175
+#: includes/class-woo-product-percentage-coupon.php:204
+msgid "No"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:182
+msgid "Coupon discount (%)"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:183
+msgid "Coupon default"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:199
+#, php-format
+msgid "Activate “%s” discount (%%)"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:212
+#, php-format
+msgid "“%s” discount (%%)"
+msgstr ""
+
+#: includes/class-woo-product-percentage-coupon.php:225
+msgid "There are no “Percentage discount (per product)” coupons yet."
+msgstr ""
+
+#: product-percentage-coupon-woo.php:66
+msgid ""
+"<strong>Percentage Coupon per Product for WooCommerce</strong> is installed "
+"and active but <strong>WooCommerce (3.0 or above)</strong> is not."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Percentage Coupon per Product for WooCommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create WooCommerce coupons with variable discount percentage per product"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webdados"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webdados.pt"
+msgstr ""
